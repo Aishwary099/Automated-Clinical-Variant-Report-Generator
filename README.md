@@ -35,7 +35,7 @@ Variant Classification	ACMG (InterVar) or cancer-tier (CancerVar) classification
 dbSNP ID, 1000 genomes Frequency, gnomAD Frequency	ANNOVAR avsnp150 / 1000g / gnomAD databases
 Quick start
 bash
-git clone https://github.com/Aishwary099/clinical-variant-report-generator.git
+
 cd clinical-variant-report-generator
 pip install -r requirements.txt
 
